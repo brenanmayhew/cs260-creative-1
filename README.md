@@ -23,5 +23,5 @@ On Canvas, submit the URL for your website, which should be running on your Digi
 You should also enter your name, your partner's name (if any), and your URL on this [spreadsheet](https://docs.google.com/spreadsheets/d/1K01BF5ZP5DByhydon5SfeE7dqKmogAX_XqzprGE2XTY/edit#gid=1892165156).
 Be sure to select the appropriate tab at the bottom!
 
-
+## How to modify this file succesfully
 This README was built using [Basic writing and formatting syntax in GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links).
