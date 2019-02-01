@@ -1,9 +1,16 @@
 html {
-	height: 100%;
+    height: 100%;
+
+    /* Aids footer's position */
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-	height: 100%;
+    height: 100%;
+
+    /* Aids footer's Margin bottom */
+    margin-bottom: 60px;
 }
 
 .fillerBlue {
@@ -93,7 +100,7 @@ h1 {
     width: 100%;
     height: 60px;
     line-height: 60px;
-    background-color: lightblue;
+    /*background-color: lightblue;*/
     text-align: center;
     /* Hyperlink text Color */
     font-family: 'Edwardian Script ITC', 'Javanese Text', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
