@@ -52,16 +52,24 @@ body {
 	opacity: .9;
 }
 
+#mainTitle {
+    font-size: 2em !important;
+}
+
 #welcome {
-	color: white;
-	padding-top: 10%;
-	text-align: center;
-	height: 100%;
-	width: 100%;
-	background-image: url("../images/home.jpg");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+    font-family: 'Brush Script MT', 'Javanese Text', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: goldenrod !important;
+    font-size: 5em !important;
+    font-weight: 400;
+    text-shadow: 4.5px 4.5px 3px black;
+    padding-top: 10%;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/map.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .pageFill {
