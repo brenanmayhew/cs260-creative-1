@@ -16,8 +16,13 @@ body {
 }
 
 .creatorDesc {
+	color: #b8860b;
+}
+
+.creatorName {
 	margin-top: 15px;
-	font-size: 18px;
+	font-family: 'Brush Script MT', 'Javanese Text', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 2.5em;
 	color: #b8860b;
 }
 
