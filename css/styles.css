@@ -23,7 +23,7 @@ body {
 .fillerBlue {
 	width: 100%;
 	height: 300px;
-	background-color: #add8e6 !IMPORTANT;
+	background-color: black !IMPORTANT;
 }
 
 .rating {
@@ -67,7 +67,7 @@ body {
 .pageFill {
 	height: 100%;
 	width: 100%;
-	background-color: #add8e6 !IMPORTANT;
+	background-color: black !IMPORTANT;
 }
 
 .portfolio {
@@ -88,11 +88,17 @@ img {
 }
 
 h1 {
-	margin-top: 0px !IMPORTANT;
-	padding-top: 30px !IMPORTANT;
+    color: goldenrod !important;
+    margin-top: 0px !important;
+    padding-top: 30px !important;
+    text-shadow: 1.5px 1.5px 3px #b8860b;
+    font-family: 'Brush Script MT' !important;
+    font-size: 5em !important;
 }
 
-
+.col-md-8 {
+    color: #b8860b;
+}
 
 
 
@@ -107,10 +113,10 @@ h1 {
 /* -----Brand----- for all .html files */
 html body nav a.navbar-brand {
     font-family: 'Brush Script MT', 'Javanese Text', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: gold !important;
+    color: goldenrod !important;
     font-size: 2.5em;
     font-weight: 400;
-    text-shadow: 2px 2px 3px white;
+    text-shadow: 4.5px 4.5px 3px black;
 }
 
 /* -----Menu----- for all .html files */
@@ -127,13 +133,13 @@ html body nav div ul.navbar-nav {
 
 .nav-link:hover {
     /* Hover properties */
-    color: gold !important;
+    color: goldenrod !important;
 }
 
 html body nav div ul li.active {
     /* Active properties */
     font-family: 'Brush Script MT', 'Javanese Text', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: white;
+    background-color: white !important;
     box-shadow: 0 0 2.5px .75px goldenrod;
     border-radius: 50%;
     font-size: 1.2em;
