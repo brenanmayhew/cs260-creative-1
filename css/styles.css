@@ -13,6 +13,15 @@ body {
     margin-bottom: 60px;
 }
 
+.creatorImage {
+	height: 450px;
+}
+
+.creatorDesc {
+	margin-top: 15px;
+	font-size: 18px;
+}
+
 .fillerBlue {
 	width: 100%;
 	height: 300px;
